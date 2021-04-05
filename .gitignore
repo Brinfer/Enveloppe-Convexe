@@ -1,0 +1,17 @@
+# IDE Param
+**/.vscode/*
+
+# Python cache
+**/__pycache__/*
+
+# Cloud files
+**/*.txt
+**/*.cla
+
+
+# Some Files
+**/*.pptx
+**/*.docx
+**/*.pdf
+# Except it
+!Enveloppes_convexes.pdf

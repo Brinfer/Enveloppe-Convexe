@@ -1,0 +1,102 @@
+{
+    "interface": {
+        "title": "Interface",
+        "bouton": {
+            "methode": "Méthode de ",
+            "plus de nuage": "Nouveaux nuages",
+            "nuage next": "Nuage suivant",
+            "options": "Changer les paramètres"
+        },
+        "label":{
+            "time": {
+                "default": "Temps nécessaire: ",
+                "unite": " µs",
+                "error": "Trop rapide"
+            },
+            "iteration": "Nombre d'itérations: ",
+            "error": "___"
+        }
+    },
+    "nuage": {
+        "title1": "Nuage de points",
+        "title2": "Nuage de points n° ",
+        "title3": "Création d'un nuage de points",
+        "title4": "Informations",
+        "texte info": "Génerateur d'enveloppes convexes \nEdité par: \n\n - Brinfer \n\nDans le cadre des Travaux Pratiques Maths-Info \n\nESEO - Angers - 2019",
+        "dialogue title":{
+            "open": "Ouverture de fichier",
+            "save": "Sauvegarde du nuage"
+        },
+        "error clic": "Un autre point est trop prêt du clic",
+        "menu": {
+            "title1": "Fichier",
+            "title2": "Informations",
+            "sous menu": {
+                "ouvrir": "Ouvrir",
+                "new cloud": "Créer un nouveau nuage",
+                "save": "Enregistrer",
+                "cloud tiper": "Générer des nuages-types",
+                "sous sous menu":{
+                    "classique": "Nuage de points classique",
+                    "petit": "Nuage de points simple",
+                    "alignes": "Nuage de points alignés"
+                }
+            }
+        }
+    },
+    "dialogue":{
+        "error file":{
+            "title": "Erreur fichier",
+            "texte": "Le fichier semble être corrompu. \nVoulez-vous qu'il soit réécrit ?"
+        },
+        "error alignes":{
+            "title": "Erreur position des points",
+            "texte": "Impossible de tracer une enveloppe"
+        },
+        "error saisie":{
+            "title": "Erreur de saisie",
+            "texte": "La donnée saisie n'est pas valide"
+        },
+        "error value":{
+            "title": "Information changement",
+            "texte": "Certaines valeurs ont dû être changées pour le bon fonctionnement du programme"
+        },
+        "error color":{
+            "title": "Information couleur",
+            "texte": "La couleur sélectionnée n'est pas disponible"
+        },
+        "close": {
+            "title": "Information",
+            "texte": "Le programme va se fermer automatiquement."
+        },
+        "error cloud":{
+            "title": "Erreur nuage",
+            "texte": "Le nuage semble être corrompu \nVoulez-vous réecrire le fichier ? \nSi vous répondez non, le programme continue"
+        },
+        "color": "Selection couleur de ",
+        "point": {
+            "title": "Formes de points",
+            "texte": "Quelle forme voulez-vous donner aux points ? \n Forme actuelle: "
+        },
+        "epaisseur": {
+            "title": "Epaisseur du trait",
+            "texte": "Quelle épaisseur voulez-vous donner à l'enveloppe ? \n Epaisseur actuelle: "
+        }
+    },
+    "option":{
+        "title": "Paramètre des nuages",
+        "bouton": {
+            "valider": "Valider",
+            "changer param": "Changer les paramètres globaux",
+            "color": "Couleur de ",
+            "forme": "Forme des points",
+            "epaisseur": "Epaisseur du trait"
+        },
+        "label": {
+            "min": "Nombre de points minimal?",
+            "max": "Nombre de points maximal?",
+            "largeur": "Largeur du canevas?",
+            "longueur": "Hauteur du canevas?"
+        }
+    }
+}
